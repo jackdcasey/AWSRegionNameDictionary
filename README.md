@@ -1,5 +1,6 @@
 # AWSRegionNameDictionary
 Convenient way to convert AWS region names to a human friendly format 
+
 region | name
 ---- | ----
 us-east-1 | US East (N. Virginia)
